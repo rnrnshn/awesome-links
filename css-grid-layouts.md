@@ -1,6 +1,8 @@
 __CSS Grid useful links and references__
 
-[Tableless](https://tableless.com.br/entendendo-sistemas-de-grid-css-do-zero/
+[Entendendo Sistemas de Grid CSS do Zero ](https://tableless.com.br/entendendo-sistemas-de-grid-css-do-zero/)
+
+[Should I use Grid or Flexbox?](
 https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 
 [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
@@ -10,8 +12,6 @@ https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 [CSS Grid melhor que Bootstrap](http://desenvolvimentoparaweb.com/css/css-grid-melhor-que-bootstrap/)
 
 [Buiiding production ready CSS Grid Layout](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
-
-[Render Blocking CSS](https://varvy.com/pagespeed/render-blocking-css.html)
 
 [CSS Grid Bugs](https://github.com/rachelandrew/gridbugs)
 

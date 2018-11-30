@@ -1,8 +1,11 @@
-[The Two Pillars of JavaScript — Pt 2: Functional Programming --
-How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+# Awesome articles about programming
+**Theses articles are highly related to JavaScript**
 
 [The Two Pillars of JavaScript
 Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+
+[The Two Pillars of JavaScript — Pt 2: Functional Programming --
+How to Stop Micromanaging Everything](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
 [10 Interview Questions
 Every JavaScript Developer Should Know
