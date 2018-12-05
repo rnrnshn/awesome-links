@@ -1,5 +1,7 @@
 __CSS Grid useful links and references__
 
+[Is it really safe to start using CSS Grid Layout?](https://rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/)
+
 [Entendendo Sistemas de Grid CSS do Zero ](https://tableless.com.br/entendendo-sistemas-de-grid-css-do-zero/)
 
 [Should I use Grid or Flexbox?](
